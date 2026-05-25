@@ -44,8 +44,3 @@ Tratamento de Estados: Uso de flags (dadosInseridos) para impedir que operaçõe
 Modularização: Criação de métodos estáticos com passagem de parâmetros para manter o método main limpo e organizado.
 
 Desenvolvido por Nilton Araripe 😊
-
-
-1. **Clonar o repositório:**
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
