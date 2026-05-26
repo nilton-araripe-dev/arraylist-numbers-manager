@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class ArrayLis{
+public class ArrayListManager{
 public static void main(String[] args){
 Scanner leitor = new Scanner(System.in);
 ArrayList<Double> numeros = new ArrayList<>();
